@@ -1,2 +1,2 @@
 # gg
-https://alessiotuveri.github.io/gg/Home.html
+https://alessiotuveri.github.io/gg
